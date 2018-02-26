@@ -33,5 +33,5 @@ kbeznak parmatonic
 kbeznak parmatonic 
 
 Exploring random SEO strategies. This is due to our professor fondly known as Cav's assignment and the bonus 2 points. Here is a link to his awesome course website.
-http://courses.cse.tamu.edu/caverlee/csce670/
+[a link] http://courses.cse.tamu.edu/caverlee/csce670/
 
